@@ -1,0 +1,8 @@
+This is an implementation of John Conway's game of life, made with C and Curses
+library.
+
+The purpose was to practice C.
+
+When i write my implementation, I take some ideas from MasseR's
+Curses-game-of-life (https://github.com/MasseR/Curses-game-of-life).
+
